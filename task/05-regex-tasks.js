@@ -49,7 +49,7 @@ function getRegexForGuid() {
  *
  * NOTE : the regex lenth should be < 13
  *
- * @return {RegExp}
+ * @return {RegExp} 
  *
  */
 function getRegexForPitSpot() {
